@@ -1,0 +1,5 @@
+*********** Order List (2020_03_20) ***********
+Order ID:   1  StaffName:Hello Java                      Total:$1360.00 
+Order ID:   2  StaffName:Hello Java                      Total:$893.55 
+-------------------------------------------------------
+Total sales:$2253.55(2)  Canceled:$0.0(0)
